@@ -1,0 +1,163 @@
+
+/*styles for global.html*/
+.general .intro {
+	margin-top: 100px;
+}
+
+.general section {
+	text-align: center;
+	font-size: 25px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.general .introimg{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	width: 800px;
+	text-align: center;
+	position: top;
+	display: block;
+}
+
+.general .title {
+	font-size:35px;
+	text-align: center;
+	color: #037ef3;
+}
+
+.general .container {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.general #number {
+	background-color: #037ef3;
+	width: 100% !important;
+	height: 150px;
+	color: #ffffff;
+	font-size: 35px;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+.general #country, .general #university, .general #members {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+.general .description {
+	font-size: 18px;
+	text-align: center;
+}
+
+.general #map {
+	text-align: center;
+	background-color: 
+}
+
+.general .allFloating {
+	margin-top: 0px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+.general .numicon {
+	width: 70px;
+	height: 50px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+@media screen and (max-width: 1200px) {
+	.general #country, .general #university, .general #members {
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
+		font-size: 15px;
+	}
+}
+
+
+/*styles for apply.html*/
+
+.general p {
+	font-size: 18px;
+}
+
+.general #steps {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+.general #stepTitle {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.general .stepTitle {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.general #rsvp {
+	background-color: orange;
+}
+
+.general .slider {
+	list-style-type: none;
+}
+
+.general .applyli {
+	background-color: #ffffff;
+	text-align: center;
+	width: 80%;
+	position: absolute;
+	margin: 0 auto;
+}
+
+
+
+/*styles for business-skills.html*/
+
+.general #skills {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: #037ef3;
+	padding-top: 10px;
+	padding-bottom: 70px;
+	margin-bottom: 70px;
+}
+
+.general #pies {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: #037ef3;
+	padding-top: 10px;
+	padding-bottom: 70px;
+	margin-bottom: 70px;
+}
+
+.general #field {
+	background-color: white;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.general #field svg g text {
+	font-size:15px;
+}
+
+
